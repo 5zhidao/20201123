@@ -19,4 +19,4 @@
 git clone https://github.com/tty228/luci-app-serverchan package/serverchan
 git clone https://github.com/kenzok8/openwrt-packages package/openwrt-packages
 git clone https://github.com/kenzok8/small package/small
-
+git clone https://github.com/fw876/helloworld package/ssrplus
